@@ -1,0 +1,42 @@
+*{
+    font-family: Arial;  
+    color: lightgrey;
+}
+a{
+    text-transform: uppercase;
+    font-size: large;
+    margin-right: 5%;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+body{
+    background-image: url("../IMG/BG.png");
+    background-repeat: no-repeat;
+    background-color: #2a333c;
+}
+.navigation{
+    top: 50px;
+    right: 15px;
+    height: 50px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: right;
+}
+.page{
+    margin-top: 15%;
+    margin-left: 40%;
+    margin-right: 40%; 
+}
+.page>p{
+    margin-bottom: 200%;
+}
+.images{
+    margin: 0 auto;
+}
+u{
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-right: 100%;
+}
