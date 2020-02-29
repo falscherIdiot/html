@@ -8,7 +8,7 @@ a{
     margin-right: 5%;
     text-decoration: none;
 }
-a:hover{
+.navigation>a:hover{
     text-decoration: underline;
     border: white;
     border-style: solid;
