@@ -10,6 +10,9 @@ a{
 }
 .navigation>a:hover{
     text-decoration: underline;
+    border: solid;
+    border-radius: 5px;
+    border-width: 2px;
 }
 body{
     background-image: url("../IMG/BG.png");
