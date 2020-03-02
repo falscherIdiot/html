@@ -1,0 +1,55 @@
+*{
+    font-family: Arial;
+    color: lightgrey;
+}
+a{
+    text-transform: uppercase;
+    font-size: large;
+    margin-right: 5%;
+    text-decoration: none;
+}
+.navigation>a:hover{
+    text-decoration: underline;
+    border: solid;
+    border-radius: 5px;
+    border-width: 2px;
+}
+body{
+    background-image: url("../IMG/BG.png");
+    background-repeat: no-repeat;
+    background-color: #2a333c;
+}
+.navigation{
+    top: 50px;
+    right: 15px;
+    height: 50px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: right;
+}
+.page{
+    margin-top: 15%;
+    margin-left: 35%;
+    margin-right: 35%; 
+}
+.page>p{
+    margin-bottom: 200%;
+    font-size: small;
+}
+.images{
+    margin: 0 auto;
+}
+u{
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-right: 100%;
+}
+.table-text{
+    text-align: center;
+}
+.table-date{
+    border-right: 1px solid grey;
+}
+.table-header{
+    border-bottom: 1px solid grey;
+}
