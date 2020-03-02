@@ -44,3 +44,12 @@ u{
     margin-bottom: 30px;
     margin-right: 100%;
 }
+.table-text{
+    text-align: center;
+}
+.table-date{
+    border-right: 1px solid grey;
+}
+.table-header{
+    border-bottom: 1px solid grey;
+}
